@@ -129,13 +129,6 @@ function App() {
             </div>
             
             <div className="lg:pl-8">
-              <div className="bg-gradient-to-br from-purple-900/30 to-black/30 p-8 rounded-2xl border border-green-400/20 backdrop-blur-sm">
-                <blockquote className="text-lg sm:text-xl text-gray-200 italic leading-relaxed mb-6">
-                  "Symphony of the Singularity masterfully weaves together decades of technological advancement into a compelling narrative that feels both historically grounded and eerily prophetic. This is essential reading for anyone seeking to understand our technological trajectory."
-                </blockquote>
-                <cite className="text-green-400 font-semibold">— Tech Futures Review</cite>
-              </div>
-              
               <div className="mt-8 grid grid-cols-3 gap-4 text-center">
                 <div className="bg-green-400/10 p-4 rounded-lg border border-green-400/20">
                   <div className="text-2xl font-bold text-green-400">70+</div>
