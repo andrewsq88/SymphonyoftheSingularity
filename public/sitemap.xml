@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://symphonyofthesingularity.com/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://symphonyofthesingularity.com/New%20Back%20Cover%20Unwanted%20copy.png</image:loc>
+      <image:title>Symphony of the Singularity Book Cover - AI Robots and Humanoid Machines</image:title>
+      <image:caption>Explore 70 years of AI evolution from 1950s automation to humanoid robots, machine learning, and the technological singularity</image:caption>
+    </image:image>
+  </url>
+</urlset>
