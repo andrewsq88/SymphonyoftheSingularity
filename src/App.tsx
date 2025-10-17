@@ -440,27 +440,6 @@ function App() {
             </div>
           </div>
 
-          {/* Additional Keywords Section */}
-          <div className="mt-16 p-8 bg-gradient-to-r from-gray-900/50 to-black/50 rounded-2xl border border-gray-700/30">
-            <h3 className="text-2xl font-bold mb-6 text-center text-gray-200" style={{ fontFamily: 'Orbitron, monospace' }}>
-              Key Topics & Concepts
-            </h3>
-            <div className="flex flex-wrap justify-center gap-3">
-              <span className="px-4 py-2 bg-green-900/30 text-green-300 rounded-full text-sm border border-green-400/30">Robot Automation</span>
-              <span className="px-4 py-2 bg-blue-900/30 text-blue-300 rounded-full text-sm border border-blue-400/30">Pattern Recognition</span>
-              <span className="px-4 py-2 bg-purple-900/30 text-purple-300 rounded-full text-sm border border-purple-400/30">Voice Recognition</span>
-              <span className="px-4 py-2 bg-cyan-900/30 text-cyan-300 rounded-full text-sm border border-cyan-400/30">Image Recognition</span>
-              <span className="px-4 py-2 bg-yellow-900/30 text-yellow-300 rounded-full text-sm border border-yellow-400/30">Robotic Dexterity</span>
-              <span className="px-4 py-2 bg-pink-900/30 text-pink-300 rounded-full text-sm border border-pink-400/30">AI Ethics</span>
-              <span className="px-4 py-2 bg-green-900/30 text-green-300 rounded-full text-sm border border-green-400/30">Machine Vision</span>
-              <span className="px-4 py-2 bg-blue-900/30 text-blue-300 rounded-full text-sm border border-blue-400/30">Automation History</span>
-              <span className="px-4 py-2 bg-purple-900/30 text-purple-300 rounded-full text-sm border border-purple-400/30">AI Safety</span>
-              <span className="px-4 py-2 bg-cyan-900/30 text-cyan-300 rounded-full text-sm border border-cyan-400/30">Cognitive Computing</span>
-              <span className="px-4 py-2 bg-yellow-900/30 text-yellow-300 rounded-full text-sm border border-yellow-400/30">Smart Robotics</span>
-              <span className="px-4 py-2 bg-pink-900/30 text-pink-300 rounded-full text-sm border border-pink-400/30">Human-Robot Interaction</span>
-            </div>
-          </div>
-
           <div className="text-center mt-16">
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
               From 1950s industrial automation to cutting-edge humanoid robots and artificial general intelligence - explore the complete journey.
